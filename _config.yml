@@ -41,7 +41,7 @@ keywords: "Hexo, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: /atom.xml
 
 footer:
   # Specify the date when the site was setup.
@@ -143,6 +143,7 @@ social_icons:
   enable: true
   icons_only: false
   transition: false
+
 
 # Blog rolls
 links_icon: link
