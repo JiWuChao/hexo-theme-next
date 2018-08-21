@@ -27,3 +27,5 @@ NexT已经rebase到theme-next组织(https://github.com/theme-next) 的repo中.
 如何从 v5.1.x 更新到 v 6.x
 
 相关细节参考这里: https://github.com/iissnan/hexo-theme-next/issues/2061
+
+sdasddas
