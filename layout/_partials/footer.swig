@@ -15,23 +15,11 @@
   </span>
   <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
 
-
 <!--
-  {% if theme.post_wordcount.totalcount %}
-    <span class="post-meta-divider">|</span>
-    <span class="post-meta-item-icon">
-      <i class="fa fa-area-chart"></i>
-    </span>
-    {% if theme.post_wordcount.item_text %}
-      <span class="post-meta-item-text">{{ __('post.totalcount') }}&#58;</span>
-    {% endif %}
-    <span title="{{ __('post.totalcount') }}">{#
-    #}{{ totalcount(site, '0,0.0a') }}{#
-  #}</span>
-  {% endif %}
-</div>
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3226256&c=9679081" alt="AmazingCounters.com"></a></div>
 
 -->
+ 
 
 
 
